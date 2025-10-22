@@ -1,14 +1,30 @@
-# News Blog CMS Project in NodeJS & ExpressJS 
+# 📰 Newsify CMS
 
-A News Blog CMS (Content Management System) project built with Node.js and MongoDB offers a robust and flexible solution for managing and publishing news articles and blog posts. This technology stack is a popular choice due to its "JavaScript everywhere" paradigm, allowing developers to use a single language for both client-side and server-side development, streamlining the development process.
+Newsify CMS is a full-featured **Content Management System** built using **Node.js, Express, MongoDB, and EJS**.  
+It allows admins to create, edit, delete, and publish news articles easily with a clean and responsive UI.
 
+---
 
-## Youtube Video link
+## 🚀 Features
+- Admin panel for managing posts and categories  
+- Add, edit, and delete articles  
+- Upload images with Multer  
+- Responsive frontend for visitors  
+- MongoDB for storing news and users  
 
-[NodeJS Course Video Playlist](https://www.youtube.com/playlist?list=PL0b6OzIxLPbx0ZTmVQgsB4T5KWXXxrZ6C)
+---
 
-## Follow Us
+## 🛠️ Tech Stack
+- **Frontend:** EJS, Bootstrap 5  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Mongoose)  
+- **Other Tools:** Multer, dotenv, bcrypt, express-validator  
 
-[www.yahubaba.com](https://www.yahubaba.com)
+---
 
-[Youtube Channel](https://www.youtube.com/yahoobaba)
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/newsify-cms.git
+cd newsify-cms
+npm install
