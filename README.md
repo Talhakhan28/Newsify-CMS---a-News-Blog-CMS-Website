@@ -21,6 +21,10 @@ It allows admins to create, edit, delete, and publish news articles easily with 
 - **Other Tools:** Multer, dotenv, bcrypt, express-validator  
 
 ---
+## First_Time_login
+username=talha
+password=00000
+
 
 
 ## 🖼️ Screenshots
