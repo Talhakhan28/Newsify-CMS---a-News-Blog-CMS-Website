@@ -28,9 +28,9 @@ It allows admins to create, edit, delete, and publish news articles easily with 
 git clone https://github.com/your-username/newsify-cms.git
 cd newsify-cms
 npm install
+-------
+## 🖼️ Screenshots
 
-
-## Images
 <img width="1896" height="934" alt="image" src="https://github.com/user-attachments/assets/88145a2c-d5ac-459a-bc5b-7a224a3e340f" />
 <img width="1893" height="934" alt="image" src="https://github.com/user-attachments/assets/261e2109-b2d4-4e96-92dc-a7bda5560e2f" />
 <img width="1899" height="928" alt="image" src="https://github.com/user-attachments/assets/29714fbf-6c87-4887-9449-3055e0b9be50" />
