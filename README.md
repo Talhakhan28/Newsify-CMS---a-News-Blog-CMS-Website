@@ -22,13 +22,7 @@ It allows admins to create, edit, delete, and publish news articles easily with 
 
 ---
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/your-username/newsify-cms.git
-cd newsify-cms
-npm install
--------
 ## 🖼️ Screenshots
 
 <img width="1896" height="934" alt="image" src="https://github.com/user-attachments/assets/88145a2c-d5ac-459a-bc5b-7a224a3e340f" />
